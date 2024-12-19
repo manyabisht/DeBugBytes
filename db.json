@@ -34,4 +34,5 @@
         { "id": 3, "metric": "Highest Rated Destination", "value": "Tokyo" },
         { "id": 4, "metric": "Popular Campaign Type", "value": "Email Marketing" }
     ]
+    
 }
