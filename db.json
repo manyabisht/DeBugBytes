@@ -1,0 +1,37 @@
+{
+    "destinations": [
+        { "id": 1, "name": "Maldives", "price": "₹50,000", "popularity": 95, "description": "A tropical paradise with stunning beaches and clear waters." },
+        { "id": 2, "name": "Paris", "price": "₹80,000", "popularity": 90, "description": "The city of love, known for its art, fashion, and Eiffel Tower." },
+        { "id": 3, "name": "Dubai", "price": "₹45,000", "popularity": 85, "description": "A modern city with iconic architecture and luxury shopping." },
+        { "id": 4, "name": "Tokyo", "price": "₹70,000", "popularity": 88, "description": "A vibrant city blending tradition with futuristic technology." }
+    ],
+    "hotels": [
+        { "id": 1, "hotel": "Beach Resort", "destination": "Maldives", "price_per_night": "₹12,000", "rating": 4.8, "amenities": ["WiFi", "Pool", "Spa"] },
+        { "id": 2, "hotel": "Eiffel Bliss", "destination": "Paris", "price_per_night": "₹15,000", "rating": 4.5, "amenities": ["WiFi", "Breakfast", "City View"] },
+        { "id": 3, "hotel": "Desert Sands", "destination": "Dubai", "price_per_night": "₹10,000", "rating": 4.6, "amenities": ["WiFi", "Airport Shuttle", "Gym"] },
+        { "id": 4, "hotel": "Sakura Stay", "destination": "Tokyo", "price_per_night": "₹14,000", "rating": 4.7, "amenities": ["WiFi", "Cultural Tours", "Japanese Cuisine"] }
+    ],
+    "packages": [
+        { "id": 1, "destination": "Maldives", "price": "₹1,20,000", "includes": ["Flights", "3 Nights Stay", "Local Tours"], "rating": 4.9 },
+        { "id": 2, "destination": "Paris", "price": "₹1,50,000", "includes": ["Flights", "5 Nights Stay", "City Tours"], "rating": 4.8 },
+        { "id": 3, "destination": "Dubai", "price": "₹1,00,000", "includes": ["Flights", "4 Nights Stay", "Desert Safari"], "rating": 4.7 },
+        { "id": 4, "destination": "Tokyo", "price": "₹1,40,000", "includes": ["Flights", "4 Nights Stay", "Cultural Tours"], "rating": 4.9 }
+    ],
+    "campaigns": [
+        { "id": 1, "type": "Email", "destination": "Maldives", "content": "Plan your dream vacation to Maldives starting at ₹50,000!", "cta": "Book Now" },
+        { "id": 2, "type": "Social Media", "destination": "Paris", "content": "Discover the romance of Paris with our exclusive packages!", "cta": "Learn More" },
+        { "id": 3, "type": "Push Notification", "destination": "Dubai", "content": "Experience luxury in Dubai! Packages starting at ₹1,00,000.", "cta": "Check Offers" },
+        { "id": 4, "type": "Banner Ad", "destination": "Tokyo", "content": "Explore the wonders of Tokyo with cultural and modern highlights.", "cta": "Plan Your Trip" }
+    ],
+    "travelAgents": [
+        { "id": 1, "name": "Global Travels", "contact": "global@travels.com", "specialty": "Luxury Packages", "rating": 4.8 },
+        { "id": 2, "name": "Wanderlust Tours", "contact": "info@wanderlust.com", "specialty": "Cultural Tours", "rating": 4.7 },
+        { "id": 3, "name": "Budget Trips", "contact": "support@budgettrips.com", "specialty": "Affordable Vacations", "rating": 4.5 }
+    ],
+    "analytics": [
+        { "id": 1, "metric": "Top Destination", "value": "Maldives" },
+        { "id": 2, "metric": "Most Booked Package", "value": "Dubai Desert Safari" },
+        { "id": 3, "metric": "Highest Rated Destination", "value": "Tokyo" },
+        { "id": 4, "metric": "Popular Campaign Type", "value": "Email Marketing" }
+    ]
+}
