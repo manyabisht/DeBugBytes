@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "debugbytes",
+  "version": "1.0.0",
+  "description": "An innovative solution developed during the TBO Hackathon to revolutionise customer acquisition for travel agents. <br> ## 🎯 Problem Statement Travel agents face challenges in acquiring and retaining customers in today's digital landscape. We're solving this by leveraging TBO's robust infrastructure to empower agents with smart tools for customer engagement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
